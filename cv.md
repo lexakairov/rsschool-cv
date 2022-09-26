@@ -1,4 +1,3 @@
-
 # ***Kairov Aliaksei*** #
 ***
 ## Contacts: #  
@@ -28,4 +27,3 @@ which quarter of the year it belongs as an integer number.
 ## Languages: #  
   English - A2   
   Russian-native speaker
- 
