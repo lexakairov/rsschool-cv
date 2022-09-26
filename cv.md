@@ -1,9 +1,11 @@
 # ***Kairov Aliaksei*** #
-***
+
+---
 
 ## Contacts: #  
   lexakairov@gmail.com / telegram - @skooma_enjoyer / Minsk, Belarus
-***
+
+---
 
 ## About me: #  
   self-taught student interested in web development and wishing to learn programming skills
